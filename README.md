@@ -18,7 +18,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-
+[![](https://gitwar.herokuapp.com/badge?username=ElNelyo&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 <p align="center">
     <a href="https://github.com/elnelyo?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/elnelyo" target="_blank"><img alt="elnelyo" src="https://badges.pufler.dev/visits/elnelyo/profile?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
