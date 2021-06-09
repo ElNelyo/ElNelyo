@@ -1,10 +1,5 @@
 ![Retrowave](./whale.gif)
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 
 <p align="center">
@@ -12,6 +7,12 @@ No Activity tracked this Week
     <a href="https://www.linkedin.com/in/charlystern" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
 </p>
+
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 
 
 <p align="center">
