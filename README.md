@@ -21,9 +21,9 @@
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnelyo&hide=html,css&hide_border=true&title_color=f314ff&text_color=555"
 </p>
+
+</details>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</details>
-
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1117231267&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
   
