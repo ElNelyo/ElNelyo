@@ -21,9 +21,9 @@ No Activity tracked this Week
 [![](https://gitwar.herokuapp.com/badge?username=ElNelyo&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 <p align="center">
     <a href="https://github.com/elnelyo?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/elnelyo" target="_blank"><img alt="elnelyo" src="https://badges.pufler.dev/visits/elnelyo/profile?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/elnelyo" target="_blank"><img alt="elnelyo" src="https://badges.pufler.dev/visits/elnelyo/elnelyo?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
     <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
-    <a href="https://github.com/elnelyo/profile" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/elnelyo/profile?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/elnelyo/profile" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/elnelyo/elnelyo?label=profile%20updated&style=flat-square"></a>
 
 </p>
 <details>
