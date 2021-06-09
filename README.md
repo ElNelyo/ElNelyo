@@ -1,5 +1,12 @@
 ![Retrowave](./whale.gif)
 
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+
+
 <p align="center">
     <a href="https://github.com/elnelyo" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@elnelyo-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/charlystern" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
@@ -23,10 +30,6 @@
 </p>
 
 </details>
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1117231267&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
   
