@@ -4,11 +4,28 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ElNelyo)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/nelyocry)
 [![Discord Badge](https://img.shields.io/badge/-Nelyo6670-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discords.com/bio/p/nelyo)
-<a href="https://github.com/elnelyo" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@elnelyo-181717?style=flat-square&logo=GitHub&logoColor=white">
-<a href="https://www.linkedin.com/in/charlystern" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>    
-![Retrowave](./whale.gif)
+<a href="https://github.com/elnelyo" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@elnelyo-181717?style=flat-square&logo=GitHub&logoColor=white"> 
+     <a href="https://github.com/elnelyo?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+    <a href="https://github.com/elnelyo" target="_blank"><img alt="elnelyo" src="https://badges.pufler.dev/visits/elnelyo/elnelyo?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
+    <a href="https://github.com/elnelyo/profile" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/elnelyo/elnelyo?label=profile%20updated&style=flat-square"></a>
 
+<img align="right" height="250" width="375" alt="" src="./whale.gif" />
 
+### Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I’m currently working with Symfony, Tailwind, ReactJS, <br /> Javascript, etc.
+- 🚀 &nbsp; I’m currently launching my own App.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ElNelyo).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/ElNelyo/ElNelyo/issues/new)! I am happy to help.
+- 📫 &nbsp; How to reach me: charly.strn@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://github.com/ElNelyo/online-cv).
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; Cryptocurrencies & BlockChain. (0x65AfD1bEaD7Bf5b1289Cf0862b8d8854fA61faBc ETH & BSC ) 
+- 🤖 &nbsp; Flying Drone
+- 🌆 &nbsp; Travelling around the world
 
 
 
@@ -19,25 +36,13 @@ Twig         3 mins          ████▓░░░░░░░░░░░░
 JSON         2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
 ```
 <!--END_SECTION:waka-->
-
-[![](https://gitwar.herokuapp.com/badge?username=ElNelyo&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-<p align="center">
-    <a href="https://github.com/elnelyo?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/elnelyo" target="_blank"><img alt="elnelyo" src="https://badges.pufler.dev/visits/elnelyo/elnelyo?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
-    <a href="https://github.com/elnelyo/profile" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/elnelyo/elnelyo?label=profile%20updated&style=flat-square"></a>
-
-</p>
-<details>
   
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elnelyo&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=f314ff&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnelyo&hide=html,css&hide_border=true&title_color=f314ff&text_color=555"
-</p>
 
-</details>
+<div>
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elnelyo&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=f314ff&text_color=555">
+
+</div>
+
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1117231267&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
   
