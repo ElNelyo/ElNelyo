@@ -14,8 +14,8 @@
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Symfony, Tailwind, ReactJS, <br /> Javascript, etc.
-- 🚀 &nbsp; I’m currently launching my own App.
+- 🛠 &nbsp; I’m currently working with Symfony, Tailwind, ReactJS, Javascript
+- 🚀 &nbsp; I’m currently launching my own App avout NFT.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ElNelyo).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/ElNelyo/ElNelyo/issues/new)! I am happy to help.
 - 📫 &nbsp; How to reach me: charly.strn@gmail.com.
@@ -28,7 +28,7 @@
 - 🌆 &nbsp; Travelling around the world
 
 
-
+### Some Stats
 <!--START_SECTION:waka-->
 ```text
 PHP          14 mins         █████████████████▓░░░░░░░   70.05 % 
