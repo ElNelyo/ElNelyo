@@ -10,6 +10,8 @@
     <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
     <a href="https://github.com/elnelyo/profile" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/elnelyo/elnelyo?label=profile%20updated&style=flat-square"></a>
 
+https://y.at/💻🦅🌵💎
+
 <img align="right" height="250" width="375" alt="" src="./whale.gif" />
 
 ### Talking about Personal Stuffs:
