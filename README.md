@@ -17,7 +17,7 @@ https://y.at/💻🦅🌵💎
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Symfony, Tailwind, ReactJS, Javascript
-- 🚀 &nbsp; I’m currently launching my own App avout NFT.
+- 🚀 &nbsp; I’m currently launching my own App about NFT.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ElNelyo).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/ElNelyo/ElNelyo/issues/new)! I am happy to help.
 - 📫 &nbsp; How to reach me: charly.strn@gmail.com.
